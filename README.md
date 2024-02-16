@@ -1,9 +1,8 @@
-# 👋 echo "Hello, World!" I'm Gustavo Lúcio
+# 👋 echo "Hello, World!" I'm Gustavo
 
 ### 🌎 About Me
 - 🎓 I'm a Computer Science student, 22 years old, based in Brazil.
 - 👨‍💻 Currently working at Slang as a DevOps
-- 🚀 My mission is to automate everything with a touch of elegance.
 
 ### 💼 Technologies
 - 🛠️ Working with technologies like Terraform, AWS, Kubernetes, Ansible, Prometheus...
