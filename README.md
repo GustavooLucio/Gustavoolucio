@@ -9,7 +9,7 @@
 - 💻 Also love Python and Golang ! 
 
 ### 🌐 Interests
-- 🌟 Enthusiastic about Bitcoin and the decentralized world of Web3.
+- 🌟 I love DeFi
 
 ### 📫 Let's Connect!
 - 📧 Email: devgustavolucio@gmail.com
