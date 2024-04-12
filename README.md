@@ -8,9 +8,6 @@
 - 🛠️ Working with technologies like Terraform, AWS, Kubernetes, Ansible, Prometheus...
 - 💻 Also love Python and Golang ! 
 
-### 🌐 Interests
-- 🌟 I love DeFi
-
 ### 📫 Let's Connect!
 - 📧 Email: devgustavolucio@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/gustavo-lúcio](https://www.linkedin.com/in/gustavo-lúcio)
